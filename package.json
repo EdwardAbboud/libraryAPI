@@ -1,0 +1,24 @@
+{
+  "name": "libraryapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdwardAbboud/libraryAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdwardAbboud/libraryAPI/issues"
+  },
+  "homepage": "https://github.com/EdwardAbboud/libraryAPI#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "uuid": "^8.3.2"
+  }
+}

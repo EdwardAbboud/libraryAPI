@@ -1,0 +1,22 @@
+[
+  {
+    "id": "9781593279509",
+    "title": "Eloquent JavaScript, Third Edition",
+    "author": "Marijn Haverbeke"
+  },
+  {
+    "id": "9781491943533",
+    "title": "Practical Modern JavaScript",
+    "author": "Nicolás Bevacqua"
+  },
+  {
+    "id": "9781593277574",
+    "title": "Understanding ECMAScript 6",
+    "author": "Nicholas C. Zakas"
+  },
+  {
+    "id": "9781449365035",
+    "title": "Speaking JavaScript",
+    "author": "Axel Rauschmayer"
+  }
+]
